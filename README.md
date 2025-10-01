@@ -28,12 +28,7 @@ pip install -r requirements.txt
 
 1. Basic file organization:
 ```bash
-python pyzer.py /path/to/directory
-```
-
-2. Run experiment mode:
-```bash
-python experiment.py
+python pyzer.py --clean --dir /path/to/directory
 ```
 
 ## Additional Information
